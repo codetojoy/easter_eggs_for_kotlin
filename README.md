@@ -1,6 +1,4 @@
 
-[![Build Status](https://travis-ci.org/codetojoy/easter_eggs_for_kotlin.svg?branch=master)](https://travis-ci.org/codetojoy/easter_eggs_for_kotlin)
-
 ### Introduction
 
 "Easter Eggs" does not refer to the secret-codes/tricks in video games! 
